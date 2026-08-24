@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Abhishek Yadav!
 
-🎯 **Competitive Programmer**  
+🎯 **Programmer**  
 🎓 **Computer Science Student**  
 ☕ **Love Java**                                                                                            
 🧠 **Problem Solver** 
  
 I enjoy tackling challenging algorithmic problems and continuously improving my skills in  
-**Data Structures, Algorithms, and Competitive Programming**.
+**Data Structures, and Algorithms**.
 
 ---
 
