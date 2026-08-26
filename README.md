@@ -62,7 +62,7 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 
 ## 📈 GitHub Contribution Summary
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhishekyadav-01n\&theme=tokyonight))
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=abhishekyadav-01n&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=abhishekyadav-01n&theme=tokyonight&show_icons=true)
 
