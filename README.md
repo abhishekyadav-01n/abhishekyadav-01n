@@ -67,30 +67,24 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 ![GitHub Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=abhishekyadav-01n&theme=tokyonight&show_icons=true)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhishekyadav-01n&layout=compact&theme=tokyonight)
+
 ---
 
-## 💻 Problem Solving Focus
+## 📈 Github Contribution Line Graph
 
-- **Codeforces:** Regular contest participation and problem-solving practice
-- **LeetCode:** Daily practice on algorithms and data structure problems
-- **Focus Areas:** 
-  - Graph Algorithms
-  - Dynamic Programming
-  - String Algorithms
-  - Mathematical Problem Solving
-  - Optimization Techniques
+<img src="https://github.pumbas.net/api/contributions/abhishekyadav-01n?days=30&colour=22C55E&bgColour=transparent" width="100%" alt="GitHub Daily Contributions">
 
 ---
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<img src="https://gh-heat.anishroy.com/api/abhishekyadav-01n/svg?theme=green" width="100%" alt="GitHub Contribution Graph">
 
 ---
 ## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abhishek-yadav-68a855328
-- GitHub: https://github.com/yadavabhishek001
+- LinkedIn: www.linkedin.com/in/abhishekyadav-01n
+- GitHub: https://github.com/abhishekyadav-01n
 
 ---
 
