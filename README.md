@@ -2,7 +2,7 @@
 
 🎯 **Programmer**  
 🎓 **Computer Science Student**  
-☕ **Love Java**                                                                                            
+☕ **Love Java & Python**                                                                                            
 🧠 **Problem Solver** 
  
 I enjoy tackling challenging algorithmic problems and continuously improving my skills in  
