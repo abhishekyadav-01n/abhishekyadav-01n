@@ -1,4 +1,3 @@
-
 # 👋 Hi there, I'm Abhishek Yadav!
 
 🎯 **Programmer**  
@@ -11,7 +10,7 @@ I enjoy tackling challenging algorithmic problems and continuously improving my 
 
 ---
 
-## Currently focusing
+## 🛠️ Currently focusing
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
